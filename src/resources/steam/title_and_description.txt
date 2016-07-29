@@ -1,0 +1,28 @@
+TITLE
+-----
+
+Olympian Campaign Camera - Extreme Edition
+
+
+DESCRIPTION
+-----------
+
+[h1]Mod description[/h1]
+
+This is an [b]experimental[/b] version of my campaign camera mod (see [url=http://steamcommunity.com/sharedfiles/filedetails/?id=434333368]here[/url]) with extreme min/max camera distance values.
+
+Be advised that there are some known issues. [b]Use this mod at your own risk![/b]
+
+
+[h1]Known Issues[/h1]
+
+[b]Issue:[/b] Game crashes when starting a new campaign if this mod is activated.
+[b]Workaround:[/b] Disable mod in mod manager, start new campaign and save game. Exit game, enable mod again and load the previously saved game.
+
+[b]Unconfirmed issue:[/b] When starting a new campaign the game seems to crash right before the intro cut scene. I don't know if that means that the game will also crash when other cut scenes are shown during the campaign.
+
+
+[h1]Miscellaneous[/h1]
+[list]
+[*] Big thanks to Foxx101 for feedback and testing!
+[/list]
